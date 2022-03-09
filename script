@@ -1,0 +1,18 @@
+create table tb_professores (
+nome varchar(100),
+sobrenome varchar(100),
+idade integer);
+
+create table tb_disciplinas(
+nome varchar(100),
+vagas integer);
+
+create table tb_aluno(
+nome varchar (100),
+sobrenome varchar (100),
+idade integer);
+ano integer);
+
+);
+
+
